@@ -1,0 +1,88 @@
+html{
+	position: relative;
+}
+
+body{
+	margin-bottom: 120px;
+	margin-top: 23px;
+}
+
+.jumbotron {
+	background-image: url('../Background/832457.png');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -0px;
+	color: 000;
+	overflow: hidden;
+	border: 3px solid black;
+	margin-bottom: 0px;
+}
+
+.jumbotron img{
+	width: 350px;
+	border: 5px solid #222;
+	box-shadow:  1px 1px 10px rgba(0,0,0,0.5);
+}
+
+
+.jumbotron h1, .jumbroton p {
+	<!-- text-shadow: 1px 1px 10px rgba(0,0,0,0.5); -->
+}
+
+hr{
+	width: 250px;
+	border-top: 4px solid #999;
+}
+
+section {
+	min-height: 600px;
+}
+
+.portfolio{
+	background-image: url('../Background/797699.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -90px;
+	color: #333;
+	overflow: hidden;
+	margin-bottom: 0px;
+}
+
+footer{
+	background-image: url('../Background/797793.jpg');
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 125px;
+	background-color: #333;
+	padding-top: 1px;
+	padding-bottom: 0px;
+}
+
+footer p {
+	color: 000;
+	font-size: 1.5em;
+	
+}
+
+footer p i{
+	color: smoke;
+	padding-top: 5px;
+}.thumbnailsny{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.bg{
+	min-height: 500px;
+	width: 100%; 
+	background-image: url('../Background/797806.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -0px;
+}
+
+.thumbnail{
+	border: none;
+	background-color: white;
+}
